@@ -1,0 +1,2 @@
+# bankingapplicaiton
+Simple banking application
